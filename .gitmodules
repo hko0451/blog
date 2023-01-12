@@ -1,0 +1,4 @@
+[submodule "mydevblog/public"]
+	path = mydevblog/public
+	url = https://github.com/hko0451/hko0451.github.io.git
+	branch = main
