@@ -1,5 +1,5 @@
 baseURL = "https://hko0451.github.io/"
-languageCode = "ko-kr"
+languageCode = "en-us"
 title = "hko0451's blog"
 theme = "mainroad"
 
